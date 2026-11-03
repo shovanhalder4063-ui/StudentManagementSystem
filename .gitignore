@@ -1,0 +1,7 @@
+# compiled output
+student_mgmt
+student_mgmt.exe
+*.o
+# runtime data files
+students.dat
+users.dat
